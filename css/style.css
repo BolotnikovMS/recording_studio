@@ -93,7 +93,7 @@ body {
 }
 
 .line__1 {
-  background: url("/icon/line-1.svg");
+  background: url("icon/line-1.svg");
   top: 105px;
   left: 50px;
   width: 37px;
@@ -101,7 +101,7 @@ body {
 }
 
 .line__2 {
-  background: url("/icon/line-2.svg");
+  background: url("icon/line-2.svg");
   top: 95px;
   left: 100px;
   width: 5px;
@@ -110,7 +110,7 @@ body {
 }
 
 .line__3 {
-  background: url("/icon/line-3.svg");
+  background: url("icon/line-3.svg");
   top: 150px;
   left: 42px;
   width: 24px;
@@ -118,7 +118,7 @@ body {
 }
 
 .line__4 {
-  background: url("/icon/line-4.svg");
+  background: url("icon/line-4.svg");
   top: 600px;
   left: 780px;
   width: 160px;
@@ -402,7 +402,7 @@ body {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background: url("./image/reviews/star.svg") center no-repeat;
+  background: url("../image/reviews/star.svg") center no-repeat;
 }
 
 .reviews__text {
