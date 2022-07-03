@@ -1,7 +1,7 @@
 * {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 22px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 a {
@@ -59,12 +59,12 @@ body {
 
 .menu__item > a {
   font-size: 17px;
-  color: #FFFFFF;
+  color: #ffffff;
   transition: all 0.3s ease;
 }
 
 .menu__item > a:hover {
-  color: #118DA8;
+  color: #118da8;
 }
 
 /* Promo section */
@@ -93,7 +93,7 @@ body {
 }
 
 .line__1 {
-  background: url('/icon/line-1.svg');
+  background: url("/icon/line-1.svg");
   top: 105px;
   left: 50px;
   width: 37px;
@@ -101,7 +101,7 @@ body {
 }
 
 .line__2 {
-  background: url('/icon/line-2.svg');
+  background: url("/icon/line-2.svg");
   top: 95px;
   left: 100px;
   width: 5px;
@@ -110,7 +110,7 @@ body {
 }
 
 .line__3 {
-  background: url('/icon/line-3.svg');
+  background: url("/icon/line-3.svg");
   top: 150px;
   left: 42px;
   width: 24px;
@@ -118,7 +118,7 @@ body {
 }
 
 .line__4 {
-  background: url('/icon/line-4.svg');
+  background: url("/icon/line-4.svg");
   top: 600px;
   left: 780px;
   width: 160px;
@@ -166,13 +166,13 @@ body {
   min-width: 290px;
 }
 
-.music__services >img {
+.music__services > img {
   margin-right: 17px;
 }
 
 /* latest-episodes section */
 .button {
-  background: #118DA8;
+  background: #118da8;
   border-radius: 6px;
   border: none;
   height: 51px;
@@ -187,7 +187,7 @@ body {
   padding: 100px 20px;
 }
 
-.latest-episodes__title {  
+.latest-episodes__title {
   min-height: 100px;
   display: flex;
   justify-content: space-between;
@@ -195,7 +195,7 @@ body {
   margin-bottom: 40px;
 }
 
-.latest-episodes__title >h1 {
+.latest-episodes__title > h1 {
   font-size: 64px;
   letter-spacing: 2.88px;
 }
@@ -238,14 +238,14 @@ body {
 .episode__number {
   font-size: 17px;
   line-height: 27px;
-  color: #118DA8;
+  color: #118da8;
   margin-bottom: 17px;
 }
 
 .episode__number > span {
   font-size: 18px;
   line-height: 27px;
-  color: #118DA8;
+  color: #118da8;
   margin-left: 5px;
 }
 
@@ -281,7 +281,7 @@ body {
 .arrow__wrap {
   height: 112px;
   width: 112px;
-  background: #118DA8;
+  background: #118da8;
   border-radius: 100%;
   margin-bottom: 20px;
   display: flex;
@@ -296,7 +296,7 @@ body {
 
 .author__wrap > span {
   font-size: 18px;
-  color: #118DA8;
+  color: #118da8;
 }
 
 .author__wrap > h1 {
@@ -332,7 +332,7 @@ body {
 
 .contact__text > span {
   font-size: 18px;
-  color: #118DA8;
+  color: #118da8;
 }
 
 .contact__text > h1 {
@@ -357,11 +357,10 @@ body {
   padding: 0 20px;
   margin-bottom: 20px;
   outline: none;
-  
 }
 
 .form__input:focus {
-  outline: 1px solid #118DA8;
+  outline: 1px solid #118da8;
 }
 
 .form__button {
@@ -403,7 +402,7 @@ body {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background: url('/image/reviews/star.svg') center no-repeat;
+  background: url("image/reviews/star.svg") center no-repeat;
 }
 
 .reviews__text {
