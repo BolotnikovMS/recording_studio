@@ -402,7 +402,7 @@ body {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background: url("image/reviews/star.svg") center no-repeat;
+  background: url("./image/reviews/star.svg") center no-repeat;
 }
 
 .reviews__text {
